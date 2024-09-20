@@ -1,0 +1,21 @@
+The self parameter is a reference to the instance itself
+self is my_cat
+my_cat is self argument effectively
+when you call class you never had to pass argument from self
+The self Parameter
+The self parameter is a reference to the instance itself; This is a litle confusing, but the point of classes is to make objects -
+and each object needs to be unique. Imagine you're making a game, and your class creates enemies. 
+ Each enemy might start the same, but they each need their own health bar, perhaps you want them to be different colours.
+So self gives each individual instance access to it's own set of attributes, and allows each instance to access the methods from 
+  within the class individually. 
+  So, if you give your enemies a method allowing them to dodge out of your way, they won't all have to dodge at the same time.
+  ##########
+one more point about self, if you think back to the Functions module, you may remember that if a function requires parameters,
+we pass arguments through to them when we call the function. However, when we create an instance of a class, we don't need to provide
+    an argument for Self.
+    ####################
+    what super function does:
+    
+The super() function helps Python make connections between a parent and a child class, and the __init__ method
+ takes in information required to make a Cat instance.
+ 

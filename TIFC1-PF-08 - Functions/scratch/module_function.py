@@ -1,0 +1,1 @@
+from module1 import function1 as f1

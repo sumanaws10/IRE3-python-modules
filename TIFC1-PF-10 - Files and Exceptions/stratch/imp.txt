@@ -1,0 +1,8 @@
+Tips when handling exceptions
+Be specific in exception handling
+Print meaningful error messages
+Keep exception handling simple
+Test exception handling
+#https://github.com/ehmatthes/pcc_2e
+#https://ehmatthes.github.io/pcc/solutions/chapter_10.html
+#https://ehmatthes.github.io/pcc_3e/solutions/chapter_20/

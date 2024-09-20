@@ -1,0 +1,6 @@
+Here’s how you should arrange them:
+ 
+Positional parameters (parameters without default values)
+Default parameters (parameters with default values)
+*args (for variable number of positional arguments)
+**kwargs (for variable number of keyword arguments)
